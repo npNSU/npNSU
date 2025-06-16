@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hello, I'm Nia. I'm currently an undergraduate computer science student at Norfolk State University 🔰
+
+- 🎓 My current classification is a Senior
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: My favorite book series is Harry Potter
+- 💼 Future plans: I want to be a Software Engineer 
+- ✉️ You can reach me at: n.perez123893@spartans.nsu.edu
 
 <!--
 **npNSU/npNSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
