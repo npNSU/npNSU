@@ -3,7 +3,7 @@
 - 🎓 My current classification is a Senior
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: My favorite book series is Harry Potter
-- 💼 Future plans: I want to be a Software Engineer 
+- 💼 Future plans: I plan to be a Software Engineer 
 - ✉️ You can reach me at: n.perez123893@spartans.nsu.edu
 
 <!--
